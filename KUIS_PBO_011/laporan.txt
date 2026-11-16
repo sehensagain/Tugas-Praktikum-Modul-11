@@ -1,0 +1,6 @@
+LAPORAN TRANSAKSI BESAR
+Rumah Sakit: RS Sehat Selalu
+================================
+ID=ACT-01, OBJ=OBJ-B, QTY=5, TOTAL=1500000
+================================
+Jumlah Transaksi Besar: 1
